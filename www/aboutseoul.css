@@ -1,0 +1,164 @@
+* {
+margin: 0em; 
+padding: 0em; 
+font-size: 100%; 
+font-family: arial, 
+"trebuchet MS", 
+helvetica, 
+sans-serif; 
+color: #000; 
+}
+
+body { 
+background-color: black; 
+background-repeat:repeat; 
+}
+
+ul, li {list-style-type: none;}
+
+#main-wrapper {
+width: 900px; 
+margin:auto;
+background-color: white; 
+margin-top:15px; 
+margin-bottom:115px;
+margin-right:440px; 
+border: 2px solid white; 
+border-radius:15px;
+}
+
+header img {
+border-top-left-radius:10px;
+}
+
+nav {
+margin: 0em auto;
+float:left;
+margin-top: 75px;
+margin-left: 10px;
+margin-right: 25px;
+margin-bottom:140px;
+background-color: #e9e6df;
+opacity: 0.6;
+border: 1px solid black;
+border-radius:10px;
+}
+
+nav a {
+font-family: verdana;
+text-decoration:none;
+color:black;
+font-weight: bold;
+margin-right: 3px;
+}
+
+nav a:hover {
+text-decoration:underline;
+color: red;
+font-family:verdana;
+}
+
+nav li {
+font-family: verdana;
+color:black;
+margin-top: 30px;
+margin-bottom:20px;
+margin-left:10px;
+margin-right:10px;
+}
+
+h1 {
+text-align: center;
+font-family: verdana;
+font-weight: bold;
+font-size:2.55em;
+}
+
+h2 {
+margin-top:20px;
+font-size:1.1em;
+font-family:verdana;
+}
+
+p {
+margin-top:10px;
+font-size: 0.95em;
+text-align: justify;
+font-family: verdana;
+}
+
+article {
+margin-top: 15px;
+width: 850px;
+}
+
+figure{
+text-align:center;
+margin-top:15px;
+margin-bottom:30px;
+}
+
+footer {
+font-size:0.95em;
+text-align: center;
+}
+
+footer li {
+font-size:0.75em;
+display: inline;
+}
+footer a {
+margin-left:15px;
+text-decoration:none;
+}
+
+footer a:hover {
+text-decoration:underline;
+}
+
+
+														
+														
+														/*CLASSES APPLIED*/
+
+
+		/*FOR THE EMBLEM ON THE INDEX.HTML*/
+
+.emblem{
+text-align: right; 
+margin-top: 5px;                
+}
+
+		/*CONTACT PAGE ON CONTACT.HTML*/
+
+
+.contact{
+margin-top:35px;
+}
+
+.contactus{
+float:right;
+margin-right:199px;
+margin-top:50px;
+}
+
+.e-mail{
+font-weight:bold;
+}
+
+.email {
+float:right;
+margin-right: 385px;
+}
+
+.para{
+padding-top:35px;
+}
+
+		/*FOR FOOTER ON CONTACT PAGE*/
+
+
+.foot{
+margin-top:95px;
+margin-right: 95px;
+}

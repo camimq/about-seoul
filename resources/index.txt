@@ -1,0 +1,33 @@
+branding/header:  insert the   about_seoul_logo.jpg   image 
+
+
+
+content:
+  
+About Seoul
+
+Facts
+
+Location
+
+37 degrees 58 minutes north latitude and 126 degrees 59 minutes east longitude.
+
+Climate
+
+Seoul belongs to the temperate zone which features four distinctive seasons of spring, summer, autumn and winter. 
+
+Temperature
+
+The average yearly temperature of Seoul is 12.9 centigrade. Temperatures in Seoul tend to fluctuate a great deal, reaching as high as 36 centigrade in the summer and dropping as low as -13.7 centigrade in the winter.
+
+Population
+
+Seoul has a population of 25,000,000 (recorded in 2012), spread throughout 25 districts. This accounts for about a half of the total national population. The city has one of the highest population densities in the world. 
+
+Emblem
+
+Towards the end of last century, the Seoul Metropolitan Government created a new emblem to represent the bright future of the capital city of the Republic of Korea. 
+The new emblem is colorful and displays the Korean letters for Seoul, mountains, sun and the Hangang of Seoul. It symbolises the look of a person in a happy mood 
+
+// insert the   newemblem.gif   image here //
+
