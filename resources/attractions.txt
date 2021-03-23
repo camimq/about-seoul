@@ -1,0 +1,19 @@
+<h1> Attractions </h1>
+
+<h2> Palaces </h2>
+Visit Gyeongbokgung, Changdeokgung, Deoksugung and many beautiful palaces
+ 
+<h2> National buildings </h2>
+War Memorial of Korea, National Contemporary Museum of Art and National Museum 
+
+Insert these Palaces images into the content area
+
+palace1.jpg
+palace2.jpg
+palace3.jpg
+
+Insert these National Building images into the content area
+
+museum1.jpg
+museum 2.jpg
+museum 3.jpg

@@ -1,0 +1,25 @@
+<h1> Shopping </h2>
+
+<h2> Department stores </h2>
+
+Customers will find anything their hearts can possibly desire in Seoul’s department stores. These stores deal in a huge number of products, ranging from haute couture to inexpensive clothes, and from electronic goods to furniture 
+
+Assistance from English and Japanese-speaking sales representatives is available, major credit card are accepted and foreigner-friendly exchange counters are available
+
+<h2> Markets & street stalls </h2>
+
+Popular items at the markets and street stalls include silks, traditional Korean dress, fabrics, womens wear, kitchen equipment, fruits, dried fish, Korean food, etc 
+
+The markets offer almost everything you might be looking for at very reasonable prices
+
+<h2> Duty free shops </h2>
+
+Duty-free shops are where you can purchase high-quality, luxury and imported goods without tax. Some stores have special discount periods for the purchase of duty free goods so you can buy items are at even better prices 
+
+Shop assistants in the duty-free stores speak foreign languages such as English, Japanese and Chinese. You can use dollars, won, yen as well as credit cards such as AMEX, JCB, MasterCard and VISA
+
+Insert these images amongst the content text
+
+department_stores.gif
+market.jpg 
+duty_free.jpg

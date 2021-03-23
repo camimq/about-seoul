@@ -1,0 +1,4 @@
+<h1> City Map <h1>
+A bird's eye view of our wonderful, colorful city called Seoul
+
+Insert    map.gif   immediately under the City Map heading

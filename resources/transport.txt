@@ -1,0 +1,11 @@
+<h1> Transport </h1>
+
+<h2> Local Subway line </h2>
+
+The Seoul subway links the farthest parts of Seoul and its satellite cities 
+The subway is considered the most effective transport system in Seoul. Eight subway lines and the surface line of the Korean National Railroad (KNR) merge to serve Seoul's population and visitors to Korea
+The subway is well developed and you can find most of Seoul's attractions such as royal palaces, historical sites and theme parks along the eight different routes. Each one is marked by a distinct, coloured line on the map
+
+Insert this image into the content text
+
+subwaysmall.gif    or    subwaybig.gif   (choose the appropriate image for your layout)
